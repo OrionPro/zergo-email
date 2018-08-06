@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bojler
 Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients.
 
@@ -61,3 +62,7 @@ Special thanks to:
 
 ## License
 All contents of this boilerplate are licensed under the [MIT license](https://github.com/Slicejack/bojler/blob/master/LICENSE).
+=======
+# zergo-email
+письма
+>>>>>>> 6180a439474cbbdb9f87a5202c775b0ef6dadfda
